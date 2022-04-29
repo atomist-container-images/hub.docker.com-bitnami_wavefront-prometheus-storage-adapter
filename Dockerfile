@@ -1,12 +1,84 @@
-# Tags: latest, 1.0.5-debian-10-r135, 1.0.5, 1-debian-10, 1
+# Tags: latest, 1.0.5-debian-10-r159, 1.0.5, 1-debian-10, 1
 FROM bitnami/wavefront-prometheus-storage-adapter:latest
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r135
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r159
 FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5
 FROM bitnami/wavefront-prometheus-storage-adapter:1-debian-10
 FROM bitnami/wavefront-prometheus-storage-adapter:1
 
 # Tags: _
 FROM bitnami/wavefront-prometheus-storage-adapter:_
+
+# Tags: 1.0.5-debian-10-r158
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r158
+
+# Tags: 1.0.5-debian-10-r157
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r157
+
+# Tags: 1.0.5-debian-10-r156
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r156
+
+# Tags: 1.0.5-debian-10-r155
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r155
+
+# Tags: 1.0.5-debian-10-r154
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r154
+
+# Tags: 1.0.5-debian-10-r153
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r153
+
+# Tags: 1.0.5-debian-10-r152
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r152
+
+# Tags: 1.0.5-debian-10-r151
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r151
+
+# Tags: 1.0.5-debian-10-r150
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r150
+
+# Tags: 1.0.5-debian-10-r149
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r149
+
+# Tags: 1.0.5-debian-10-r148
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r148
+
+# Tags: 1.0.5-debian-10-r147
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r147
+
+# Tags: 1.0.5-debian-10-r146
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r146
+
+# Tags: 1.0.5-debian-10-r145
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r145
+
+# Tags: 1.0.5-debian-10-r144
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r144
+
+# Tags: 1.0.5-debian-10-r143
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r143
+
+# Tags: 1.0.5-debian-10-r142
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r142
+
+# Tags: 1.0.5-debian-10-r141
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r141
+
+# Tags: 1.0.5-debian-10-r140
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r140
+
+# Tags: 1.0.5-debian-10-r139
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r139
+
+# Tags: 1.0.5-debian-10-r138
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r138
+
+# Tags: 1.0.5-debian-10-r137
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r137
+
+# Tags: 1.0.5-debian-10-r136
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r136
+
+# Tags: 1.0.5-debian-10-r135
+FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r135
 
 # Tags: 1.0.5-debian-10-r134
 FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r134
@@ -25,75 +97,3 @@ FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r130
 
 # Tags: 1.0.5-debian-10-r129
 FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r129
-
-# Tags: 1.0.5-debian-10-r128
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r128
-
-# Tags: 1.0.5-debian-10-r127
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r127
-
-# Tags: 1.0.5-debian-10-r126
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r126
-
-# Tags: 1.0.5-debian-10-r125
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r125
-
-# Tags: 1.0.5-debian-10-r124
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r124
-
-# Tags: 1.0.5-debian-10-r123
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r123
-
-# Tags: 1.0.5-debian-10-r122
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r122
-
-# Tags: 1.0.5-debian-10-r121
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r121
-
-# Tags: 1.0.5-debian-10-r120
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r120
-
-# Tags: 1.0.5-debian-10-r119
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r119
-
-# Tags: 1.0.5-debian-10-r118
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r118
-
-# Tags: 1.0.5-debian-10-r117
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r117
-
-# Tags: 1.0.5-debian-10-r116
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r116
-
-# Tags: 1.0.5-debian-10-r115
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r115
-
-# Tags: 1.0.5-debian-10-r114
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r114
-
-# Tags: 1.0.5-debian-10-r113
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r113
-
-# Tags: 1.0.5-debian-10-r112
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r112
-
-# Tags: 1.0.5-debian-10-r111
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r111
-
-# Tags: 1.0.5-debian-10-r110
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r110
-
-# Tags: 1.0.5-debian-10-r109
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r109
-
-# Tags: 1.0.5-debian-10-r108
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r108
-
-# Tags: 1.0.5-debian-10-r107
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r107
-
-# Tags: 1.0.5-debian-10-r106
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r106
-
-# Tags: 1.0.5-debian-10-r105
-FROM bitnami/wavefront-prometheus-storage-adapter:1.0.5-debian-10-r105
